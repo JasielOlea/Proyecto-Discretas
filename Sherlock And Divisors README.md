@@ -1,5 +1,4 @@
-# Watson da un número entero N a Sherlock y le pregunta: 
-# ¿Cuál es el número de divisores de N que son divisibles por 2?.
+# Watson da un número entero N a Sherlock y le pregunta: ¿Cuál es el número de divisores de N que son divisibles por 2?.
 #include <stdio.h>
 
 int main() {
