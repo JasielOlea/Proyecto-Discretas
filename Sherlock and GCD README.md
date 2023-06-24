@@ -1,8 +1,4 @@
-# Sherlock está atascado mientras resuelve un problema: Dada una matriz, A={a1,a2,...,aN}, quiere saber si existe un subconjuntode B  
-# esta matriz que sigue a estas declaraciones:
-# B es un subconjunto no vacío.
-# No existe ningún número entero x(x>1) que divide todos los elementos de B.
-# No hay elementos de B que son iguales a otro.
+# Sherlock está atascado mientras resuelve un problema: Dada una matriz, A={a1,a2,...,aN}, quiere saber si existe un subconjuntode B  esta matriz que sigue a estas declaraciones:- B es un subconjunto no vacío. - No existe ningún número entero x(x>1) que divide todos los elementos de B. - No hay elementos de B que son iguales a otro.
 
 #include <stdio.h>
 
